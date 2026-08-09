@@ -1,0 +1,56 @@
+name: Service inquiry
+description: Request a scoped QA or automation service from RELAUNCH DEPT.
+title: "[Service inquiry] "
+labels:
+  - service-inquiry
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in RELAUNCH DEPT. Do not include credentials, private customer data, access tokens, or confidential files in this public form.
+  - type: dropdown
+    id: service
+    attributes:
+      label: Service
+      options:
+        - "$59 Mobile Landing Page QA Audit"
+        - "$249 Spreadsheet Automation"
+        - "Other scoped QA or automation work"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      description: What is currently slow, broken, risky, or repetitive?
+      placeholder: Describe the current workflow or page and the measurable problem.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Required outcome
+      description: What result would make this engagement successful?
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: Preferred deadline
+      placeholder: "Example: 2026-08-20"
+    validations:
+      required: true
+  - type: input
+    id: budget
+    attributes:
+      label: Budget
+      placeholder: "Example: $249 fixed"
+    validations:
+      required: true
+  - type: checkboxes
+    id: public
+    attributes:
+      label: Public-information confirmation
+      options:
+        - label: I have not included credentials, personal data, private customer data, or confidential files.
+          required: true
