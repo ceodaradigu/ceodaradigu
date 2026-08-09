@@ -6,6 +6,7 @@ Practical QA, automation, and migration tooling for small teams.
 
 - **[$59 Mobile Landing Page QA Audit](https://contra.com/s/rMYEsYFv-mobile-landing-page-qa-audit)** — prioritized mobile findings with reproducible evidence.
 - **[$249 Spreadsheet Automation](https://contra.com/s/mqrLR6P3-48-hour-spreadsheet-automation)** — a focused 48-hour build for one repetitive spreadsheet workflow.
+- **[Request a scoped service on GitHub](https://github.com/ceodaradigu/ceodaradigu/issues/new?template=service-inquiry.yml)** — no Contra account required; never include private data or credentials.
 - **[Contact RELAUNCH DEPT. on Contra](https://contra.com/kai_relaunch_dept_akwmntj8)**
 
 ## Verifiable work
