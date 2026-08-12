@@ -12,7 +12,7 @@ Evidence-first QA, launch recovery, automation, and migration tooling for small 
 ## Verifiable work
 
 - **[Memanto OKF portability audit — PR #1813](https://github.com/moorcheh-ai/memanto/pull/1813)** — deterministic migration evidence, tests, and a reproducible demo.
-- **[Proofline Agent](https://github.com/ceodaradigu/proofline-agent)** — evidence-gated actions with tamper-evident audit trails.
+- **[Proofline Agent](https://github.com/ceodaradigu/proofline-agent)** — evidence-gated actions with tamper-evident audit trails. **[Watch the continuous 46-second product walkthrough](https://daradigu.com/proofline?utm_source=github_profile&utm_medium=organic&utm_campaign=proofline_demo)** to see a false “ready” stopped, repaired, rechecked, and held for human approval.
 - **[SchemaShield](https://github.com/ceodaradigu/schema-shield)** — data-schema change classification with explicit evidence and tests.
 - **[LaunchProof](https://github.com/ceodaradigu/launchproof-replit-template)** — an evidence-backed launch-readiness auditor.
 - **[RELAUNCH DEPT.](https://www.daradigu.com/)** — public tools, service pages, and project evidence.
