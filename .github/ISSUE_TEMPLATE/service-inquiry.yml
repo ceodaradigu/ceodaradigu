@@ -1,5 +1,5 @@
 name: Service inquiry
-description: Request a scoped QA or automation service from RELAUNCH DEPT.
+description: Request a scoped website, QA, launch-recovery, or automation service from RELAUNCH DEPT.
 title: "[Service inquiry] "
 labels:
   - service-inquiry
@@ -13,9 +13,10 @@ body:
     attributes:
       label: Service
       options:
+        - "EUR 400 Custom One-Page Website"
         - "$59 Mobile Landing Page QA Audit"
-        - "$249 Spreadsheet Automation"
-        - "Other scoped QA or automation work"
+        - "$249 48-Hour Launch Recovery Sprint"
+        - "Other scoped website, QA, launch-recovery, or automation work"
     validations:
       required: true
   - type: textarea
@@ -44,7 +45,7 @@ body:
     id: budget
     attributes:
       label: Budget
-      placeholder: "Example: $249 fixed"
+      placeholder: "Example: EUR 400 fixed"
     validations:
       required: true
   - type: checkboxes
