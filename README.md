@@ -5,6 +5,7 @@ Evidence-first custom websites, QA, launch recovery, automation, and migration t
 ## Book a focused service
 
 - **[EUR 400 Custom One-Page Website](https://daradigu.com/custom-websites?utm_source=github_profile&utm_medium=organic&utm_campaign=custom_websites)** — bespoke design and production for one page, up to seven sections, and one focused revision; a protected EUR 200 / EUR 200 split is available.
+- **[$59 24-Hour Landing Page Teardown — secure direct checkout](https://buy.stripe.com/bJe6oJ8PQ3lKgULaCrefC02)** — 12 prioritized fixes, a rewritten hero, three CTA options, and annotated screenshots delivered by email within 24 hours.
 - **[$59 Mobile Landing Page QA Audit](https://contra.com/s/rMYEsYFv-mobile-landing-page-qa-audit)** — prioritized mobile findings with reproducible evidence.
 - **[$249 48-Hour Launch Recovery Sprint](https://contra.com/s/EA6ABABW-48-hour-launch-recovery-sprint)** — positioning, launch-page repair, reusable copy, visuals, and a distribution plan delivered in 48 hours.
 - **[Request a scoped service on GitHub](https://github.com/ceodaradigu/ceodaradigu/issues/new?template=service-inquiry.yml)** — no Contra account required; never include private data or credentials.
